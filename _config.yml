@@ -1,0 +1,8 @@
+title: APK Studio
+description: Cross-platform Qt5 based IDE for reverse-engineering android applications
+google_analytics: UA-67528024-2
+show_downloads: true
+theme: jekyll-theme-leap-day
+
+gems:
+  - jekyll-mentions
